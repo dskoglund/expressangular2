@@ -1,0 +1,1 @@
+{"version":3,"file":"golfer-detail.component.js","sourceRoot":"","sources":["golfer-detail.component.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,sCAAiD;AAEjD,mCAAkC;AAMlC,IAAa,qBAAqB;IAAlC;IAEA,CAAC;IAAD,4BAAC;AAAD,CAAC,AAFD,IAEC;AADU;IAAR,YAAK,EAAE;8BAAS,eAAM;qDAAC;AADb,qBAAqB;IAJjC,gBAAS,CAAC;QACT,QAAQ,EAAE,eAAe;QACzB,WAAW,EAAE,gCAAgC;KAC9C,CAAC;GACW,qBAAqB,CAEjC;AAFY,sDAAqB"}
